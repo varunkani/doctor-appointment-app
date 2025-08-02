@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Asha Reddy",
+    "specialization": "Cardiologist",
+    "image": "https://via.placeholder.com/150",
+    "availability": "Available Today",
+    "schedule": ["10:00 AM", "2:00 PM"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Ravi Kumar",
+    "specialization": "Dermatologist",
+    "image": "https://via.placeholder.com/150",
+    "availability": "Available Tomorrow",
+    "schedule": ["11:00 AM", "3:00 PM"]
+  }
+]
